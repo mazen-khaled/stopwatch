@@ -1,9 +1,9 @@
 /*
  ============================================================================
  Name        : Mini_Project2.c
- Author      : Mohamed Tarek
+ Author      : Mazen khaled
  Description : Stop Watch System Project
- Date        : 19/06/2017
+ Date        : 19/6/2022
  ============================================================================
  */
 
